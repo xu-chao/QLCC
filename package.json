@@ -22,7 +22,7 @@
     "axios": "^1.7.2",
     "crypto-js": "^4.2.0",
     "dashjs": "^4.7.4",
-    "element-plus": "^2.7.5",
+    "element-plus": "^2.8.2",
     "gsap": "^3.12.5",
     "hls.js": "^1.5.11",
     "less": "^4.2.0",
